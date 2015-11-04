@@ -1,0 +1,29 @@
+-- 1. c
+-- 2. a
+-- 3. b
+-- 4. c
+-- 
+-- 1. 
+--  a. Num
+--  b. (Num, [Char])
+--  c. (Intger, [Char])
+--  d. False
+--  e. Int
+--  f. Bool
+--
+-- 2. Num
+-- 3. Num a => a -> a
+-- 4. Fractional a => a
+-- 5. [Char]
+--
+-- 1. wahoo = (^) bigNum $ 10
+-- 2. y = print "woohoo!"
+-- 3. c = a 10
+-- 4. b = 10000
+--
+-- 2. unconstrained, concrete, concrete
+-- 3. uncon, constrained, concrete
+-- 4. uncon, uncon, concrete
+--
+-- 1. functionH :: [t] -> t
+-- 2. functionC :: Ord a => a -> a -> Bool
