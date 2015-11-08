@@ -1,0 +1,5 @@
+<ob_> was there anything about haskell you didnt like
+<category> sometimes it's hard to write performant code, dealing with lazyness and such you don't even realize you have space leaks/memory bloat issues etc.. understanding other people's code can sometimes be difficult.. some parts of the eco systems are difficult, there's a nice article on it: http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html
+<category> that's worth reading
+<category> there can be so many ways to do something or improve your code that it can rape your mind
+<category> if you let it
